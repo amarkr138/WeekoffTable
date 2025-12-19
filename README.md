@@ -1,20 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # WeekoffTable
->>>>>>> ceb8030531f27c119f575c583d8af569fdd68cb5
+
+A front-end web application built using **Vite, React, and Tailwind CSS** to display and manage weekly off schedules in a clean and responsive table format.
+
+## 📌 Overview
+
+WeekoffTable is a lightweight React application that helps visualize weekly off days.  
+The project focuses on modern front-end development practices using Vite for fast builds and Tailwind CSS for utility-first styling.
+
+## ⚙️ Tech Stack
+
+- **Vite** – Fast development server and build tool  
+- **React** – Component-based UI library  
+- **Tailwind CSS** – Utility-first CSS framework  
+- **JavaScript (ES6+)**
+
+## 🚀 Features
+
+- Dynamic week-off table using React components
+- Responsive UI with Tailwind CSS
+- Fast development and hot reload with Vite
+- Clean and maintainable component structure
+
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally.
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/amarkr138/WeekoffTable.git
